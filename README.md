@@ -18,7 +18,7 @@ understand the architecture of Convolutional Neural Networks.
 
 Assignment3
 ---
-Assignment2 completed on Oct. 10,2017.<br>
+Assignment3 completed on Oct. 10,2017.<br>
 implement recurrent neural networks (RNNs) and Long-Short Term Memory (LSTM) RNNs.<br>
 implement and different applications of image gradients, including saliency maps, fooling images, class visualizations.<br>
 implement style transfer.<br>
